@@ -1,1 +1,3 @@
-import tkinter as tk
+from tkinter import *
+
+root = Tk() #crea el main window
